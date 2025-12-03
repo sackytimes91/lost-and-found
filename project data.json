@@ -1,0 +1,92 @@
+[
+	{
+		"ProjectID" : 1,
+		"Name" : "Highway Expansion Phase 1",
+		"Budget" : 25000000.00,
+		"Status" : "In-Progress",
+		"ProvinceID" : 1,
+		"StartDate" : "2024-03-15",
+		"EndDate" : "2025-12-31"
+	},
+	{
+		"ProjectID" : 2,
+		"Name" : "High Speed Rail Upgrade",
+		"Budget" : 40000000.00,
+		"Status" : "Planned",
+		"ProvinceID" : 4,
+		"StartDate" : "2025-01-10",
+		"EndDate" : "2027-06-30"
+	},
+	{
+		"ProjectID" : 3,
+		"Name" : "Bridge Rehabilitation Program",
+		"Budget" : 15000000.00,
+		"Status" : "In-Progress",
+		"ProvinceID" : 2,
+		"StartDate" : "2024-07-01",
+		"EndDate" : "2026-03-15"
+	},
+	{
+		"ProjectID" : 4,
+		"Name" : "Water Treatment Plant Construction",
+		"Budget" : 18000000.00,
+		"Status" : "Planned",
+		"ProvinceID" : 3,
+		"StartDate" : "2025-02-01",
+		"EndDate" : "2026-11-30"
+	},
+	{
+		"ProjectID" : 5,
+		"Name" : "Provincial Highway Resurfacing",
+		"Budget" : 12000000.00,
+		"Status" : "Completed",
+		"ProvinceID" : 1,
+		"StartDate" : "2023-05-01",
+		"EndDate" : "2024-08-15"
+	},
+	{
+		"ProjectID" : 6,
+		"Name" : "Urban Transit Expansion",
+		"Budget" : 35000000.00,
+		"Status" : "In-Progress",
+		"ProvinceID" : 4,
+		"StartDate" : "2024-09-01",
+		"EndDate" : "2026-12-31"
+	},
+	{
+		"ProjectID" : 7,
+		"Name" : "Flood Control Infrastructure",
+		"Budget" : 22000000.00,
+		"Status" : "Planned",
+		"ProvinceID" : 2,
+		"StartDate" : "2025-03-01",
+		"EndDate" : "2027-09-30"
+	},
+	{
+		"ProjectID" : 8,
+		"Name" : "High Speed Rail Upgrade",
+		"Budget" : 30000000.00,
+		"Status" : "In-Progress",
+		"ProvinceID" : 3,
+		"StartDate" : "2024-06-01",
+		"EndDate" : "2026-05-30"
+	},
+	{
+		"ProjectID" : 9,
+		"Name" : "Smart Traffic System Deployment",
+		"Budget" : 10000000.00,
+		"Status" : "Planned",
+		"ProvinceID" : 1,
+		"StartDate" : "2025-04-01",
+		"EndDate" : "2026-12-31"
+	},
+	{
+		"ProjectID" : 10,
+		"Name" : "High Speed Rail Upgrade",
+		"Budget" : 28000000.00,
+		"Status" : "In-Progress",
+		"ProvinceID" : 2,
+		"StartDate" : "2024-10-01",
+		"EndDate" : "2026-12-31"
+	}
+]

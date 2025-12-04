@@ -1,6 +1,6 @@
 // Fetch data from a mock API
 
-fetch('project data.json')
+fetch('projectdata.json')
 
 .then(response => response.json())
 
@@ -13,19 +13,15 @@ data.forEach(user => {
 const row = document.createElement('tr');
 
 row.innerHTML = `
-
 <td>${user.Name}</td>
-
-<td>${user.name}</td>
-
-<td><a href="mailto:${user.email}">${user.email}</a></td>
-
-<td>${user.company.name}</td>
-
+<td>${user.Budget}</td>
+<td>${user.Status}</td>
+<td>${user.ProvinceID}</td> 
+<td>${user["StartDate"]}</td>
+<td>${user["EndDate"]}</td>
 `;
 
 tableBody.appendChild(row);
-
 });
 
 })
